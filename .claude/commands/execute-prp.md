@@ -1,4 +1,4 @@
-# Execute BASE PRP
+# Execute BASE PRP (PRODUCT REQUIREMENTS PROMPT)
 
 Implement a feature using using the PRP file.
 

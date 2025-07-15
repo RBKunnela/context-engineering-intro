@@ -18,6 +18,16 @@ Don't copy any of these examples directly, it is for a different project entirel
 
 Pydantic AI documentation: https://ai.pydantic.dev/
 
+### Context7 Documentation Access
+
+To access library documentation:
+1. First, resolve the library name to an ID using `mcp3_resolve-library-id`
+2. Then fetch documentation with `mcp3_get-library-docs`
+
+Example:
+- Resolve: `mcp3_resolve-library-id "react"`
+- Get docs: `mcp3_get-library-docs` with the resolved ID
+
 ## OTHER CONSIDERATIONS:
 
 - Include a .env.example, README with instructions for setup including how to configure Gmail and Brave.
